@@ -72,6 +72,25 @@
 
 ---
 
+#### [Kids-Kiosk Ecommerce](https://github.com/Gemy2050/KidsKiosk) | React.js, TypeScript, Redux, Tailwind CSS, REST API
+** 🚀 Powerful Admin Dashboard  
+- 📊 Real-time analytics for sales and performance tracking.  
+- 🛒 Efficient product management (add, edit, and delete).  
+- 📦 Order tracking system for streamlined fulfillment.  
+
+** 🛒 Seamless Shopping Experience  
+- 🔍 Dynamic product browsing with filtering and sorting.  
+- 🛍️ Efficient cart management and smooth checkout process.  
+
+** 🔐 Enhanced Security Measures  
+- ✅ Multi-step authentication with OTP verification.  
+- 🔑 Password recovery system for secure access.  
+
+** 📞 Customer Support & Interaction  
+- 💬 Responsive contact system for inquiries and feedback.  
+
+---
+
 #### [LinkedIn Clone](https://github.com/Gemy2050/Linkedin-Clone) | React.js, Redux, Bootstrap, Firebase
 - **User Authentication**: Integrated **Firebase Google authentication** for secure user sign-in.
 - **Post Management**: Built features allowing users to **create, update, and delete posts**.
